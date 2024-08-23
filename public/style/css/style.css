@@ -1,0 +1,55 @@
+body {
+  background-color: #ffffff;
+  font-family: "PT Serif", serif;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #f1f0d9;
+}
+
+.jumbotron a:hover {
+  border: none;
+  background-color: #ffae00;
+}
+
+.section-about {
+  margin-top: 8em;
+}
+
+.section-about p {
+  margin-bottom: 2.5em;
+}
+
+.section-header {
+  background-color: #f1f0d9;
+}
+
+.section-header h2 {
+  padding-top: 4em;
+}
+
+.section-quotes {
+  margin-top: 0.1em;
+}
+
+.section-quotes .card-body {
+  font-family: "Alkatra", cursive;
+}
+
+.section-projects {
+  margin-top: 0.1em;
+}
+
+.section-information {
+  margin-top: 6em;
+}
+
+footer {
+  background-color: #ffc107;
+}
